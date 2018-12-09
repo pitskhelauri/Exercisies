@@ -1,0 +1,1 @@
+﻿var admin, name;name = "giorgi";admin = name;alert(admin);
